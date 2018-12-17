@@ -1,0 +1,155 @@
+    1  sudo apt-get update
+    2  sudo apt-get install google-chrome-stable
+    3  sudo apt install chromium-browser
+    4  sudo apt-get install chromium-browser
+    5  sudo apt-get install chrom
+    6  sudo apt install google-chrome-beta
+    7  sudo apt-get install libgconf-2-4
+    8  sudo apt-get install git
+    9  git -v
+   10  git --versio
+   11  git --version
+   12  visual studio code -v
+   13  visual studiocode -v
+   14  visualstudiocode -v
+   15  sudo apt install npm
+   16  npm -v
+   17  sudo apt install node
+   18  sudo apt install curl
+   19  sudo apt install nodejs
+   20  node -v
+   21  npm -v
+   22  sudo nano http_server.js
+   23  sudo apt-get install vi
+   24  sudo apt-get install vim
+   25  npm install -g @angular/cli
+   26  angular -v
+   27  ped
+   28  pwd
+   29  ls -la
+   30  cd Documents/
+   31  ls
+   32  mkdir angular
+   33  ls
+   34  cd angular/
+   35  ng new myangular-app
+   36  npm install -g angular-cli
+   37  ng new mynewapp
+   38  sudo apt install ng-common
+   39  ng new mynewapp
+   40  cd Documents/
+   41  ls
+   42  cd angular/
+   43  ng new myprod
+   44  history
+   45  sudo apt remove ng-common
+   46  ng help
+   47  cd Documents/
+   48  cd angular/
+   49  npm install -g @angular-cli
+   50  cd ..
+   51  npm install -g @angular-cli
+   52  npm install -g @angular/cli
+   53  chmod -R 777 /home/
+   54  chmod -R 777 /home/ramu/
+   55  chmod -R 777 /home/ramu/http_server.js.save 
+   56  history
+   57  sudo remove nano http_server.js
+   58  sudo remove /home/ramu/http_server.js
+   59  rm /home/ramu/http_server.js
+   60  npm install -g @angular-cli
+   61  npm i angular-cli
+   62  npm install -g angular-cli
+   63  npm install -g @angular-cli
+   64  ng new myapp
+   65  cd ..
+   66  npm install -g @angular/cli
+   67  cd /usr/bin/npm
+   68  cd /usr/bin/
+   69  npm install -g @angular/cli
+   70  cd ../..
+   71  ls -la
+   72  npm install -g @angular/cli
+   73  npm -v
+   74  sudo npm i -g @angular/cli
+   75  sudo ng new mynewapp
+   76  sudo ng serve mynewapp/
+   77  pwd
+   78  cd /home/
+   79  cd ramu/
+   80  ls
+   81  su
+   82  SRIram@545
+   83  su
+   84  cpwd
+   85  pwd
+   86  npm install -g @angular/cli
+   87  su
+   88  npm install -g @angular/cli
+   89  su
+   90  git config --system user.name "ramu"
+   91  sudo git config --system user.name "ramu"
+   92  sudo git config --system user.email "gollapudiramu48@gmail.com"
+   93  git config --sysytem --list
+   94  git config --system --list
+   95  sudo git config --global user.name "ramu"
+   96  sudo git config --global user.email "gollapudiramu48@gmail.com"
+   97  git config --global --list
+   98  ng -v
+   99  ng v
+  100  su
+  101  sudo -i
+  102  su
+  103  cd /home/ramu/Documents/
+  104  ng new myapp
+  105  cd myapp/
+  106  ng serve
+  107  ng serve --open
+  108  ls -la
+  109  cd Documents/
+  110  ls
+  111  rmdir myapp
+  112  rmdir -r myapp
+  113  ls -la
+  114  mkdir fullstack
+  115  ls -la
+  116  cd fullstack/
+  117  cd ..
+  118  chmod 672 fullstack/
+  119  cd fullstack/
+  120  chmod 777 fullstack/
+  121  cd fullstack/
+  122  touch test.txt
+  123  vi test.txt 
+  124  mkdir .sample
+  125  ls
+  126  ls -la
+  127  rmdir .sample/
+  128  ls -la
+  129  cd ..
+  130  cd fullstack/
+  131  ls -la
+  132  touch sample.txt
+  133  ls -la
+  134  gedit sample.txt 
+  135  cd .. /..
+  136  cd ../..
+  137  pwd
+  138  cd Documents/fullstack/
+  139  ls -la
+  140  cat /home/ramu/Documents/fullstack/
+  141  cat /home/ramu/Documents/fullstack
+  142  cat /home/ramu/Documents/fullstack/sample.txt 
+  143  ls -i
+  144  stat sample.txt 
+  145  ln sample.txt bsample.txt
+  146  cat bsample.txt 
+  147  cat sample.txt 
+  148  ls -la
+  149  ln sample.txt /home/ramu/Documents/b2sample.txt
+  150  ls -la /home/ramu/Documents/b2sample.txt 
+  151  history
+  152  history /home/ramu/Documents/b2sample.txt 
+  153  history cat /home/ramu/Documents/b2sample.txt 
+  154  cat history /home/ramu/Documents/b2sample.txt 
+  155  history > /home/ramu/Documents/b2sample.txt 
